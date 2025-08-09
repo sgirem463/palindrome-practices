@@ -1,6 +1,6 @@
 # palindrome-practices
-1. a simple function to check if a string is a palindrome,
-   isPalindrome(s)
+1. a simple function to check if a string is a palindrome
+   sPalindrome(s)
 
 2. A function to check if the a string can be a palindrome after deleting at most one character from it.
    onePalindrome(s)
